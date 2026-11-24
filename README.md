@@ -10,6 +10,22 @@ BugPk-Api 是一套开源的**开放 API 服务平台**，包含后端网关与�
 | [bugpkapi-new-vue](https://github.com/jiuhunwl/bugpkapi-new-vue) | 前端：Vue 3 + Vben Admin + Vite | MIT |
 | **bugpkapi-new-docs**（本仓库） | 文档、架构说明与部署指南 | CC BY 4.0 |
 
+## 界面预览
+
+以下截图来自实际运行环境，均为 1440×960 整页截图。
+
+![管理端 · 套餐列表](./assets/screenshots/admin-plans.png)
+
+*管理端：套餐列表，可按用户组限制可见与可购*
+
+![用户端 · 套餐商城](./assets/screenshots/store-plans.png)
+
+*用户端：套餐商城，未授权用户组直接显示不可购买*
+
+![管理端 · 套餐配置](./assets/screenshots/admin-plan-edit.png)
+
+*管理端：套餐配置，限制用户组购买与可见范围*
+
 ## 从哪里开始
 
 - 第一次接触项目：读 [架构概览](./docs/architecture.md)。
