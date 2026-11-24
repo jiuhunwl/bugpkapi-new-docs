@@ -1,5 +1,7 @@
 # BugPk-Api 文档
 
+[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-%E7%A4%BE%E5%8C%BA-1f6feb?logo=discourse&logoColor=white)](https://linux.do) 本项目在 [LINUX DO](https://linux.do) 社区分享，欢迎在那里交流部署与使用问题。
+
 BugPk-Api 是一套开源的**开放 API 服务平台**，包含后端网关与计费、管理后台、用户前台与配套文档。
 
 | 仓库 | 说明 | 许可证 |
