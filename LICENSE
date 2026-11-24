@@ -1,0 +1,16 @@
+# 许可证
+
+本仓库中的文档与示意图采用 **Creative Commons Attribution 4.0 International（CC BY 4.0）** 许可。
+
+你可以自由地共享与改编本仓库内容，包括商业用途，但必须：
+
+- **署名**：注明来源为 BugPk-Api 文档仓库，并附上许可证链接；
+- **标明修改**：若修改了内容，需说明修改之处；
+- **不得附加额外限制**：不得以法律条款或技术措施限制他人按许可证允许的方式使用。
+
+完整法律文本：<https://creativecommons.org/licenses/by/4.0/legalcode>
+
+代码仓库采用各自仓库的许可证：
+
+- 后端 `bugpkapi-new-go`：[AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
+- 前端 `bugpkapi-new-vue`：MIT（含 Vue Vben Admin 上游版权声明）
