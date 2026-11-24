@@ -1,5 +1,7 @@
 # 架构概览
 
+**简体中文** · [English](architecture_EN.md)
+
 BugPk-Api 由三个仓库组成：Go 后端、Vue 前端与本文档仓。前后端通过 `/system-api`（管理端与用户端接口）和 `/api/{apiCode}`（开放 API 网关）通信。
 
 ## 后端分层

@@ -1,5 +1,7 @@
 # 部署指南
 
+**简体中文** · [English](deployment_EN.md)
+
 适用于单机或小规模生产部署：Linux + MySQL 8 + Redis 6+ + Nginx，前后端同域。
 
 ## 1. 前置条件

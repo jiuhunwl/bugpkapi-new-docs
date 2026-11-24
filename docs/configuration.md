@@ -1,5 +1,7 @@
 # 配置参考
 
+**简体中文** · [English](configuration_EN.md)
+
 后端配置由三层合并而成，后者覆盖前者：
 
 1. 代码内置默认值（`internal/config`）
